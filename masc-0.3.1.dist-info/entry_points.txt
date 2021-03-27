@@ -1,0 +1,3 @@
+[console_scripts]
+masc = masc.main:main
+
